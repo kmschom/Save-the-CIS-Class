@@ -6,3 +6,6 @@ as part of the Spring 2022 CIS 410 Intro to Game Programming class at the Univer
 
 Story Concept: An evil professor is terrorizing a class of Computer and Information Science (CIS) students with an impossibly-difficult final exam. If the students don't find an answer key to the test, they will all be doomed for failure. A strong and sporty Computer and Information Science (CIS) major enlists the help of a small and sneaky school library worker to break
 into her evil profressor's office and steal the answer key to the upcoming test. 
+
+Play the game here: https://play.unity.com/en/games/2fc5bfdc-0cdb-48b6-acc2-a1fac4ad323c/sportsgirl-librarianboy
+Watch a demo of the game here: https://youtu.be/GoOrgtGKpvU
